@@ -19,4 +19,5 @@ To run in locally with a dev server:
 
 License:   
 NFT2Wallet is [MIT Licensed](https://github.com/pawartur/nft2wallet/blob/main/LICENSE)
-# nft2wallet-cialone
+# nft2wallet-
+*an application which gives a physical representation of an NFT, best utilized as a membership card, as well as music and art display, this project was forked from a licensed repo with the permission from the published developers*
